@@ -1,0 +1,11 @@
+{
+  "columns": [
+    "total_sqft",
+    "bath",
+    "bhk",
+    "location_1",
+    "location_2",
+    "location_3"
+    
+  ]
+}
